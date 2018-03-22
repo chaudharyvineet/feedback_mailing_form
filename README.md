@@ -2,6 +2,8 @@
 
 **Dependencies:** Express and Nodemailer
 
+** How to run **
+
 -Clone or Download the repository and extract the file.
 
 -Run the following commands in cmd / terminal
