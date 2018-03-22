@@ -4,14 +4,14 @@
 
 **How to run**
 
--Clone or Download the repository and extract the file.
+Clone or Download the repository and extract the file.
 
--Run the following commands in cmd / terminal
+Run the following commands in cmd / terminal
 
--npm install
+npm install
 
--node server.js
+node server.js
 
--Goto your web browser , in new tab paste this url " localhost:8080 " and hit enter .
+Goto your web browser , in new tab paste this url " localhost:8080 " and hit enter .
  
  
