@@ -2,7 +2,7 @@
 
 **Dependencies:** Express and Nodemailer
 
-** How to run **
+**How to run**
 
 -Clone or Download the repository and extract the file.
 
